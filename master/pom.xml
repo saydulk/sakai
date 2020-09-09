@@ -89,7 +89,7 @@
     <sakai.elasticsearch.version>1.7.6</sakai.elasticsearch.version>
     <sakai.hibernate.groupId>org.hibernate</sakai.hibernate.groupId>
     <sakai.hibernate.artifactId>hibernate-core</sakai.hibernate.artifactId>
-    <sakai.hibernate.version>4.3.11.Final</sakai.hibernate.version>
+    <sakai.hibernate.version>5.3.18.Final</sakai.hibernate.version>
     <sakai.httpclient.version>4.5.3</sakai.httpclient.version>
     <sakai.httpcore.version>4.4.7</sakai.httpcore.version>
     <sakai.httpmime.version>4.5.3</sakai.httpmime.version>
@@ -116,7 +116,7 @@
     <sakai.spring.plugin.version>1.2.0.RELEASE</sakai.spring.plugin.version>
     <sakai.spring.test.artifactId>spring-test</sakai.spring.test.artifactId>
     <sakai.spring.test.version>4.3.6.RELEASE</sakai.spring.test.version>
-    <sakai.tika.version>1.18</sakai.tika.version>
+    <sakai.tika.version>1.24.1</sakai.tika.version>
     <sakai.tomcat.version>8.5.20</sakai.tomcat.version>
     <sakai.velocity.version>1.6.4</sakai.velocity.version>
     <sakai.xerces.impl.version>2.11.0</sakai.xerces.impl.version>
