@@ -94,7 +94,7 @@
     <sakai.httpcore.version>4.4.7</sakai.httpcore.version>
     <sakai.httpmime.version>4.5.3</sakai.httpmime.version>
     <sakai.jackson.version>2.8.6</sakai.jackson.version>
-    <sakai.java.jwt.version>3.1.0</sakai.java.jwt.version>
+    <sakai.java.jwt.version>3.8.3</sakai.java.jwt.version>
     <sakai.jcr.version>1.0</sakai.jcr.version>
     <sakai.jstl.version>1.1.2</sakai.jstl.version>
     <sakai.lombok.version>1.16.16</sakai.lombok.version>
@@ -112,7 +112,7 @@
     <sakai.spring.artifactId>spring-core</sakai.spring.artifactId>
     <sakai.spring.version>4.3.10.RELEASE</sakai.spring.version>
     <sakai.spring.security.version>3.2.10.RELEASE</sakai.spring.security.version>
-    <sakai.spring.hateoas.version>0.22.0.RELEASE</sakai.spring.hateoas.version>
+    <sakai.spring.hateoas.version>1.1.1.RELEASE</sakai.spring.hateoas.version>
     <sakai.spring.plugin.version>1.2.0.RELEASE</sakai.spring.plugin.version>
     <sakai.spring.test.artifactId>spring-test</sakai.spring.test.artifactId>
     <sakai.spring.test.version>4.3.6.RELEASE</sakai.spring.test.version>
