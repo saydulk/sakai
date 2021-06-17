@@ -17,7 +17,7 @@
     <inceptionYear>2005</inceptionYear>
     <packaging>jar</packaging>
     <properties>
-        <deploy.target />
+        <deploy.target/>
     </properties>
     <dependencies>
         <dependency>
@@ -58,7 +58,7 @@
         <dependency>
             <groupId>org.apache.myfaces.core</groupId>
             <artifactId>myfaces-impl</artifactId>
-            <version>1.1.5</version>
+            <version>1.1.6</version>
         </dependency>
         <dependency>
             <groupId>org.apache.myfaces.tomahawk</groupId>
@@ -112,7 +112,7 @@
             <version>1.4</version>
         </dependency>
     </dependencies>
-    <reports />
+    <reports/>
     <build>
         <resources>
             <resource>
