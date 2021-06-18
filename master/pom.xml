@@ -113,7 +113,7 @@
     <sakai.spring.version>4.3.10.RELEASE</sakai.spring.version>
     <sakai.spring.security.version>3.2.10.RELEASE</sakai.spring.security.version>
     <sakai.spring.hateoas.version>0.22.0.RELEASE</sakai.spring.hateoas.version>
-    <sakai.spring.plugin.version>1.2.0.RELEASE</sakai.spring.plugin.version>
+    <sakai.spring.plugin.version>2.0.0.RELEASE</sakai.spring.plugin.version>
     <sakai.spring.test.artifactId>spring-test</sakai.spring.test.artifactId>
     <sakai.spring.test.version>4.3.6.RELEASE</sakai.spring.test.version>
     <sakai.tika.version>1.19</sakai.tika.version>
