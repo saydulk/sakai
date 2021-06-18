@@ -19,7 +19,7 @@
 	<inceptionYear>2008</inceptionYear>
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-		<wicket.version>6.26.0</wicket.version>
+		<wicket.version>7.18.0</wicket.version>
 	</properties>
 	<modules>
 		<module>api</module>
@@ -78,7 +78,7 @@
 			<dependency>
 				<groupId>org.wicketstuff</groupId>
 				<artifactId>wicketstuff-objectautocomplete</artifactId>
-				<version>6.18.0</version>
+				<version>7.18.0</version>
 			</dependency>
 			<dependency>
 				<groupId>org.imgscalr</groupId>
