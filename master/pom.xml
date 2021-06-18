@@ -90,9 +90,9 @@
     <sakai.hibernate.groupId>org.hibernate</sakai.hibernate.groupId>
     <sakai.hibernate.artifactId>hibernate-core</sakai.hibernate.artifactId>
     <sakai.hibernate.version>4.3.11.Final</sakai.hibernate.version>
-    <sakai.httpclient.version>4.5.3</sakai.httpclient.version>
+    <sakai.httpclient.version>4.5.7</sakai.httpclient.version>
     <sakai.httpcore.version>4.4.7</sakai.httpcore.version>
-    <sakai.httpmime.version>4.5.3</sakai.httpmime.version>
+    <sakai.httpmime.version>4.5.7</sakai.httpmime.version>
     <sakai.jackson.version>2.9.10.4</sakai.jackson.version>
     <sakai.java.jwt.version>3.8.3</sakai.java.jwt.version>
     <sakai.jcr.version>1.0</sakai.jcr.version>
@@ -744,7 +744,7 @@
       <dependency>
         <groupId>org.hibernate</groupId>
         <artifactId>hibernate-validator</artifactId>
-        <version>5.3.4.Final</version>
+        <version>6.0.19.Final</version>
         <scope>provided</scope>
       </dependency>
       <dependency>
@@ -816,7 +816,7 @@
       <dependency>
         <groupId>org.mnode.ical4j</groupId>
         <artifactId>ical4j</artifactId>
-        <version>2.0.0</version>
+        <version>3.0.9</version>
         <scope>provided</scope>
       </dependency>
       <dependency>
@@ -1790,7 +1790,7 @@
       <dependency>
         <groupId>com.hazelcast</groupId>
         <artifactId>hazelcast-client</artifactId>
-        <version>3.2.3</version>
+        <version>3.12.11</version>
         <scope>provided</scope>
       </dependency>
       <dependency>
